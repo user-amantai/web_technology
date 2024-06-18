@@ -1,0 +1,8 @@
+body{
+    margin: 0 auto;
+    background: linear-gradient(135deg, #f3ec78, #af4261);
+}
+.nav_border{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
